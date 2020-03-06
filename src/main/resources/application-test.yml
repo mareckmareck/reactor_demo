@@ -1,0 +1,4 @@
+big.city.aparts.url: "http://localhost:8090/bigcityaparts/apartments"
+cozy.houses.aparts.url: "http://localhost:8090/cozyhousesaparts/apartments"
+
+logging.level.org.eclipse.jetty: ERROR
